@@ -1,5 +1,3 @@
----
-
 # GTA 6 Themed Developer Portfolio 🚀🎮
 
 This is a **GTA 6-inspired animated developer portfolio** built using **React** and **Vite**. It features smooth animations powered by **GSAP**, **Lenis** for buttery scrolling, and an immersive intro sequence—all themed around Rockstar-style visuals for a striking first impression.
@@ -44,5 +42,3 @@ npm run dev
 * Downloadable resume section
 * Dark/light toggle
 * Enhanced mobile responsiveness
-
----
